@@ -37,7 +37,7 @@ Most of the personal and open source project are available on my github account
 [BekhaIrga](https://github.com/bekhairga)
 Also recent project works are:
 
-- [ontop.uz](http://ontop.uz/)
+- [ontop.uz](http://ontop.uz)
 - [yellowstar](https://yellowstar.uz/)
 - [avtobon.uz](http://avtobon.uz/ru/)
 - [panatour.uz](https://panatour.uz/)
