@@ -37,10 +37,10 @@ Most of the personal and open source project are available on my github account
 [BekhaIrga](https://github.com/bekhairga)
 Also recent project works are:
 
-- [ontop.uz](ontop.uz)
-- [yellowstar](yellowstar.uz)
-- [panatour.uz](panatour.uz)
-- [avtobon.uz](avtobon.uz)
+- [ontop.uz](http://ontop.uz/)
+- [yellowstar](https://yellowstar.uz/)
+- [avtobon.uz](http://avtobon.uz/ru/)
+- [panatour.uz](https://panatour.uz/)
 - [site for travel agency specializing on surfing](https://gosurf-bekha.000webhostapp.com/)
 - [minimal photography website](https://minimal-bekha.000webhostapp.com/)
 - [salon site](https://salon-bekha.000webhostapp.com/)
